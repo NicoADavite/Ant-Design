@@ -1,6 +1,6 @@
 # Ant Design
 
-This project was created to test the Ant Design
+This project was created to test the Ant Design package
 
 # Getting Started with Create React App
 
